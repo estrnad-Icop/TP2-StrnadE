@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Ejercicio6 {
     
-    static void Ejecutar(){
+    static void ejecutar(){
 
             Scanner sc = new Scanner(System.in); 
 

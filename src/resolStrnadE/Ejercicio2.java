@@ -4,7 +4,7 @@ import java.time.LocalDate;
 import java.util.Scanner;
 
 public class Ejercicio2 {
-public static void ejecutar(String[] args) {
+public static void ejecutar() {
 
         Scanner sc = new Scanner (System.in);
         
